@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 body {
     background-color: yellowgreen;
 }
 
-p {
+#Timer, p {
     font-size: 7em;
     color: cornsilk;
     text-align: center;
+}
+#Timer {
+    font-family: 'consolas';
+}
+p{
+    font-family: 'Shadows Into Light', cursive;
 }
